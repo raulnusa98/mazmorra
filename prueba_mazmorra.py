@@ -63,7 +63,7 @@ while(True):
     else:
       print("Opción incorrecta!")
 
-#SOTANO
+#SOTANOwqerw2r234r23r23r2
 
   elif posicionJugador == "Sotano":
     print("ESTÁS EN EL SÓTANO!")
